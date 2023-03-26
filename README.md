@@ -1,0 +1,1 @@
+# springbootrabbitmq
